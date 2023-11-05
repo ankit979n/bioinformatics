@@ -1,0 +1,23 @@
+Python Version : Python 3.11.2
+R version : R version 4.2.3
+R studio version: Version 1.4.1106
+
+jupyter notebook version: 
+Selected Jupyter core packages...
+IPython          : 8.12.0
+ipykernel        : 6.22.0
+ipywidgets       : 8.0.6
+jupyter_client   : 8.1.0
+jupyter_core     : 5.3.0
+jupyter_server   : 2.5.0
+jupyterlab       : not installed
+nbclient         : 0.7.3
+nbconvert        : 7.3.0
+nbformat         : 5.8.0
+notebook         : 6.5.4
+qtconsole        : 5.4.2
+traitlets        : 5.9.0
+
+packages used in python: numpy, mlxtend, networkx, pyvis Pandas and sklearn, NetworkX, igraph, and Cytoscape.
+packages used in R studio:library(tidyverse), library(GEOquery), library(affy)
+ 
